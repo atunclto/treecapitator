@@ -1,0 +1,11 @@
+name: TreeCapitator
+main: com.daniel.treecapitator.TreeCapitatorPlugin
+version: 1.1
+api-version: 1.21
+commands:
+  tc:
+    description: Comandos de TreeCapitator (toggle)
+    usage: /tc toggle [global]
+permissions:
+  treecap.admin:
+    default: op

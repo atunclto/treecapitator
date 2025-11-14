@@ -1,0 +1,6 @@
+require-axe: true
+max-blocks: 250
+replant-if-sapling-drop: true
+delay-ticks-per-block: 2   # ticks entre romper bloques (1 tick = 50ms). Subir para animación más lenta.
+log-block-names: false
+global-enabled: true       # guardar estado global

@@ -1,0 +1,3 @@
+com\daniel\treecapitator\command\ToggleCommand.class
+com\daniel\treecapitator\listener\TreeCapListener.class
+com\daniel\treecapitator\TreeCapitatorPlugin.class
